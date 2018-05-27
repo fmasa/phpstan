@@ -4141,7 +4141,7 @@ class NodeScopeResolverTest extends \PHPStan\Testing\TestCase
 			[
 				'array(\'a\' => 1)',
 				'array_filter($union)',
-			]
+			],
 		];
 	}
 
